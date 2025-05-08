@@ -1,10 +1,5 @@
 # Cleaning and Analysing Tabular Data
 
-# Overview
-This project, aimed at solidifying proficiency in data wrangling, web scraping, and feature engineering, consists of two parts, namely:
-
-# Part 1: Cleaning and Analysing Tabular Data
-
 ### Tasks: Using the provided dataset
 1. Handle missing values in the Total Amount column.
 2. Remove duplicate rows.
