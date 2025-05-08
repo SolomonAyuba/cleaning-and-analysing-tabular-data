@@ -1,0 +1,101 @@
+Order ID,Customer Name,Order Date,Product Category,Quantity,Price,Total Amount,Country
+1,Customer 1,2022-06-01,Electronics,5,102.27,511.35,United States
+2,Customer 2,2022-04-28,Fashion,3,195.72,587.16,United States
+3,Customer 3,2022-04-08,Home Goods,5,176.54,882.7,United States
+4,Customer 4,2022-10-20,Fashion,5,74.25,371.25,United States
+5,Customer 5,2022-06-19,Fashion,3,192.7,578.1,United States
+6,Customer 6,2022-05-24,Fashion,4,54.02,216.08,United States
+7,Customer 7,2022-07-25,Electronics,4,190.37,283.1,United States
+8,Customer 8,2022-09-13,Electronics,2,188.86,377.72,United States
+9,Customer 9,2022-11-02,Electronics,3,161.85,485.55,United States
+10,Customer 10,2022-07-08,Fashion,5,129.79,648.95,United States
+11,Customer 11,2022-08-15,Home Goods,4,176.11,704.44,United States
+12,Customer 12,2022-09-18,Fashion,4,65.67,262.68,United States
+13,Customer 13,2022-06-26,Fashion,2,171.3,342.6,United States
+14,Customer 14,2022-09-10,Electronics,2,127.4,254.8,United States
+15,Customer 15,2022-05-20,Electronics,2,12.52,25.04,United States
+16,Customer 16,2022-01-20,Fashion,2,75.97,151.94,United States
+17,Customer 17,2022-06-16,Home Goods,3,38.15,114.45,United States
+18,Customer 18,2022-01-19,Electronics,1,196.55,196.55,United States
+19,Customer 19,2022-04-25,Home Goods,4,100.89,283.1,United States
+20,Customer 20,2022-02-20,Home Goods,2,104.5,209.0,United States
+21,Customer 21,2022-04-20,Fashion,5,131.5,657.5,United States
+22,Customer 22,2022-08-01,Fashion,4,80.03,283.1,United States
+23,Customer 23,2022-02-10,Fashion,2,36.01,72.02,United States
+24,Customer 24,2022-10-01,Home Goods,2,166.2,332.4,United States
+25,Customer 25,2022-11-21,Electronics,3,46.07,138.21,United States
+26,Customer 26,2022-08-04,Electronics,1,107.15,283.1,United States
+27,Customer 27,2022-12-19,Fashion,1,52.62,52.62,United States
+28,Customer 28,2022-08-03,Electronics,3,28.59,85.77,United States
+29,Customer 29,2022-01-01,Home Goods,5,173.82,869.1,United States
+30,Customer 30,2022-05-22,Home Goods,1,194.85,283.1,United States
+31,Customer 31,2022-06-07,Electronics,5,192.56,283.1,United States
+32,Customer 32,2022-09-21,Home Goods,4,182.25,729.0,United States
+33,Customer 33,2022-02-16,Home Goods,4,157.07,628.28,United States
+34,Customer 34,2022-05-10,Home Goods,1,73.3,283.1,United States
+35,Customer 35,2022-11-27,Fashion,1,25.41,25.41,United States
+36,Customer 36,2022-09-02,Fashion,4,87.38,349.52,United States
+37,Customer 37,2022-02-08,Electronics,4,54.12,216.48,United States
+38,Customer 38,2022-10-26,Electronics,1,35.17,35.17,United States
+39,Customer 39,2022-04-07,Electronics,4,20.15,80.6,United States
+40,Customer 40,2022-08-12,Home Goods,1,147.86,147.86,United States
+41,Customer 41,2022-03-28,Home Goods,3,12.17,283.1,United States
+42,Customer 42,2022-01-15,Fashion,2,156.41,283.1,United States
+43,Customer 43,2022-04-22,Fashion,1,37.92,37.92,United States
+44,Customer 44,2022-10-11,Electronics,5,25.11,283.1,United States
+45,Customer 45,2022-05-12,Electronics,1,27.02,27.02,United States
+46,Customer 46,2022-05-07,Home Goods,4,137.69,550.76,United States
+47,Customer 47,2022-05-16,Fashion,5,56.62,283.1,United States
+48,Customer 48,2022-05-04,Fashion,5,89.9,283.1,United States
+49,Customer 49,2022-05-21,Home Goods,2,115.9,283.1,United States
+50,Customer 50,2022-09-15,Electronics,1,173.5,283.1,United States
+51,Customer 51,2022-05-04,Fashion,3,148.14,444.42,United States
+52,Customer 52,2022-11-24,Fashion,5,61.36,306.8,United States
+53,Customer 53,2022-06-22,Fashion,5,34.98,174.9,United States
+54,Customer 54,2022-01-18,Fashion,3,20.52,61.56,United States
+55,Customer 55,2022-06-10,Fashion,5,67.3,283.1,United States
+56,Customer 56,2022-04-01,Home Goods,4,59.8,239.2,United States
+57,Customer 57,2022-06-01,Home Goods,3,96.67,290.01,United States
+58,Customer 58,2022-02-19,Home Goods,4,139.82,559.28,United States
+59,Customer 59,2022-05-03,Electronics,1,142.17,283.1,United States
+60,Customer 60,2022-01-04,Fashion,1,63.87,63.87,United States
+61,Customer 61,2022-03-11,Home Goods,1,82.19,82.19,United States
+62,Customer 62,2022-01-08,Fashion,4,44.42,177.68,United States
+63,Customer 63,2022-06-10,Fashion,5,159.82,799.1,United States
+64,Customer 64,2022-01-11,Fashion,5,20.8,104.0,United States
+65,Customer 65,2022-03-12,Fashion,3,142.43,427.29,United States
+66,Customer 66,2022-11-24,Electronics,3,157.95,473.85,United States
+67,Customer 67,2022-12-03,Home Goods,5,157.71,788.55,United States
+68,Customer 68,2022-10-03,Home Goods,2,59.29,118.58,United States
+69,Customer 69,2022-04-28,Electronics,4,81.02,324.08,United States
+70,Customer 70,2022-04-19,Fashion,4,121.64,486.56,United States
+71,Customer 71,2022-04-21,Fashion,4,61.84,247.36,United States
+72,Customer 72,2022-02-19,Electronics,2,80.46,160.92,United States
+73,Customer 73,2022-12-15,Electronics,3,47.44,142.32,United States
+74,Customer 74,2022-10-27,Electronics,3,97.37,292.11,United States
+75,Customer 75,2022-02-05,Home Goods,4,18.48,283.1,United States
+76,Customer 76,2022-11-23,Fashion,3,161.96,485.88,United States
+77,Customer 77,2022-12-09,Home Goods,4,24.62,98.48,United States
+78,Customer 78,2022-12-03,Fashion,5,108.58,542.9,United States
+79,Customer 79,2022-04-17,Home Goods,5,68.29,341.45,United States
+80,Customer 80,2022-01-23,Electronics,3,119.73,359.19,United States
+81,Customer 81,2022-01-07,Home Goods,2,192.29,384.58,United States
+82,Customer 82,2022-04-15,Electronics,3,132.66,397.98,United States
+83,Customer 83,2022-11-20,Fashion,1,16.72,16.72,United States
+84,Customer 84,2022-09-09,Fashion,4,91.78,367.12,United States
+85,Customer 85,2022-09-03,Fashion,1,106.9,283.1,United States
+86,Customer 86,2022-04-03,Electronics,3,111.87,335.61,United States
+87,Customer 87,2022-12-14,Electronics,5,139.46,697.3,United States
+88,Customer 88,2022-01-09,Electronics,4,62.74,250.96,United States
+89,Customer 89,2022-09-20,Electronics,3,34.48,283.1,United States
+90,Customer 90,2022-09-27,Electronics,2,84.61,169.22,United States
+91,Customer 91,2022-03-25,Electronics,3,191.72,575.16,United States
+92,Customer 92,2022-05-04,Fashion,2,45.55,91.1,United States
+93,Customer 93,2022-01-05,Electronics,5,181.76,908.8,United States
+94,Customer 94,2022-04-14,Home Goods,2,113.32,226.64,United States
+95,Customer 95,2022-12-23,Home Goods,1,96.81,96.81,United States
+96,Customer 96,2022-10-14,Fashion,1,177.59,177.59,United States
+97,Customer 97,2022-12-25,Fashion,1,97.13,283.1,United States
+98,Customer 98,2022-01-25,Fashion,1,147.59,147.59,United States
+99,Customer 99,2022-06-15,Home Goods,1,85.81,85.81,United States
+100,Customer 100,2022-10-17,Fashion,2,181.77,363.54,United States
