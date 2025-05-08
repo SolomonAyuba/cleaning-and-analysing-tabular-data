@@ -11,3 +11,5 @@
 1. A cleaned version of the dataset in CSV format.
 2. A Jupyter Notebook with detailed steps and code.
 3. At least two visualizations (e.g., a bar chart of revenue by category, top countries by revenue).
+
+© [Miva Open University](https://miva.university/) 03.29.2025
